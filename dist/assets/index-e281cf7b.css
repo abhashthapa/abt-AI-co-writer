@@ -1,0 +1,1 @@
+body{margin:0;font-family:Arial,sans-serif}.container{display:flex;height:100vh}.sidebar,.editor,.chat{padding:10px;border-right:1px solid #ccc}.sidebar{width:20%;background-color:#f4f4f4}.editor{width:50%}.chat{width:30%}.settings{position:absolute;top:10px;right:10px;cursor:pointer}
